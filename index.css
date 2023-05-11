@@ -1,0 +1,41 @@
+ .content{
+        text-decoration: none;
+        color: green;
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 200px;
+        margin-top: -90px;
+
+        
+        
+        }
+ 
+
+/* img{
+        height: 100vh;
+        width: 100px;
+        object-fit: cover;
+        object-position: center; 
+} */
+
+/* .main{
+        height: 70vh;
+        margin-top: 150px;
+} */
+
+.logo{
+        height: 100px;
+        width: 100px;
+        border-radius: 20px;
+        margin-left: 50px;
+}
+
+.facebook{
+        height: 40px;
+        margin-left: 350px;
+        
+}
+
+.instagram{
+        height: 40px;
+        margin-right: 200px;
+}
